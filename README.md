@@ -5,7 +5,7 @@ In this workshop, we will work on improving our machine learning workflow by cre
 In this workshop. You will prepare your own setup by:
 - Adding instructions to create and activate a virtual envir an
 - Adding a requirements.txt file that contains all necessary dependencies in your project
-  - Tip: after you activate your virtual envir and installing necessary packages, you can dump them into the file by running the following commmand:
+  - Tip: after activating your virtual envir and installing necessary packages, you can dump them into the file by running the following commmand:
     ``pip freeze > requirements.txt``
 
 # TO DO
