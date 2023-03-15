@@ -10,8 +10,8 @@ In this workshop. You will prepare your own setup by:
   - Tip: after activating your virtual envir and installing necessary packages, you can dump them into the file by running the following commmand:
     ``pip freeze > requirements.txt``
 
-# TO DO
-The goal of this workshop is for you to build your own boilerplate starting from this repo so you could customize. But in order to do that, these are the things we need to cover:
+# Objectives of this workshop
+The goal of this workshop is for you to build your own boilerplate starting from this repo so you could customize it to your preferences. But in order to do that, these are the things we need to cover:
 - Writing scripts to train, evaluate and predict with our models
 - Parsing arguments to have better control over our workflow
 - using the settings.py file to manage file paths, global variables and configurations
