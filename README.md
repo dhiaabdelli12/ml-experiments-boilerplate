@@ -1,6 +1,8 @@
 # ML workflow workshop
 In this workshop, we will work on improving our machine learning workflow by creating a small framework to build our pipeline for EDA, data processing, modeling, evaluation and logging. You could this as a boilerplate for hackathons, ML projects/experiments or running quick prorotypes for a proof of concept.
 
+We will work with the following dataset: https://zindi.africa/competitions/be-a-trailblazer/data
+
 # Setup
 In this workshop. You will prepare your own setup by:
 - Adding instructions to create and activate a virtual envir an
