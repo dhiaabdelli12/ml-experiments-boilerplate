@@ -1,5 +1,5 @@
 # ML workflow workshop
-In this workshop, we will work on improving our machine learning workflow by creating a small framework to to build our pipeline for EDA, data processing, modeling, evaluation and logging. You could this as a boilerplate for hackathons, ML projects/experiments or running quick prorotypes for a proof of concept.
+In this workshop, we will work on improving our machine learning workflow by creating a small framework to build our pipeline for EDA, data processing, modeling, evaluation and logging. You could this as a boilerplate for hackathons, ML projects/experiments or running quick prorotypes for a proof of concept.
 
 # Setup
 In this workshop. You will prepare your own setup by:
