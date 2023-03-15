@@ -14,7 +14,7 @@ In this workshop. You will prepare your own setup by:
 The goal of this workshop is for you to build your own boilerplate starting from this repo so you could customize it to your preferences. But in order to do that, these are the things we need to cover:
 - Writing scripts to train, evaluate and predict with our models
 - Parsing arguments to have better control over our workflow
-- using the settings.py file to manage file paths, global variables and configurations
+- using the ``settings.py`` file to manage file paths, global variables and configurations
 - Properly document our code
 - Logging our experiments
 - Serializing/pickling our models
