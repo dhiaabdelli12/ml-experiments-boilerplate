@@ -15,10 +15,10 @@ DATA_PROCESSED = os.path.join(DATA_DIR,"processed")
 DATA_PREDICTED = os.path.join(DATA_DIR,"predictions")
 
 MODEL_DIR = os.path.join(ROOT_DIR, "models")
-LOG_DIR = os.path.join(ROOT_DIR, "logs")
 
 
 
-TARGET_VARIABLE = "pm2_5"
+TARGET_VARIABLE = "target"
 DATASET_NAME = "creditcard.csv"
+
 
