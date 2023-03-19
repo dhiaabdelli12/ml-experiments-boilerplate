@@ -7,4 +7,7 @@
 [ ] Fix logging
 [ ] Add models structure that has parameters, name, scores ..
 [ ] Make settings.py accessible everywhere
+[ ] Add sampling techniques
+[ ] Add scaling
+[ ] Add script to generate univarite and bivariate report
 
